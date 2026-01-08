@@ -1,6 +1,6 @@
 ## 📌 Giới Thiệu Dự Án
-Đây là repository chứa báo cáo bài tập lớn (BTL) của nhóm sinh viên Khoa Điện - Điện Tử, Trường Đại học Giao thông Vận tải. Báo cáo tập trung vào việc ứng dụng các phương pháp kiểm tra không phá hủy (Non-Destructive Testing - NDT) hiện đại với chi phí thấp, sử dụng phần cứng đơn giản và phần mềm mã nguồn mở.
-Báo cáo bao gồm ba đề tài chính:
+Báo cáo bài tập lớn (BTL) của nhóm sinh viên Khoa Điện - Điện Tử, Trường Đại học Giao thông Vận tải. Báo cáo tập trung vào việc ứng dụng các phương pháp kiểm tra không phá hủy (Non-Destructive Testing - NDT) hiện đại với chi phí thấp, sử dụng phần cứng đơn giản và phần mềm mã nguồn mở.
+### Báo cáo bao gồm ba đề tài chính:
 - Sử dụng công nghệ sóng siêu âm khảo sát vết nứt bề mặt (sử dụng cảm biến HC-SR04 + ESP32 + Python để tạo A-scan và B-scan).
 - Hiển thị dữ liệu GPR bằng phần mềm gprMax (mô phỏng sóng điện từ với FDTD).
 - Thiết kế mạch dùng công nghệ GPR phát hiện khuyết tật và vật thể bên trong bê tông (sử dụng cảm biến HB100 + Arduino Mega + GPRPy).
